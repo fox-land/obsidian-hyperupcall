@@ -1,0 +1,10 @@
+{
+	"id": "hyperupcall",
+	"name": "hyperupcall",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Edwin's Obsidian plugin",
+	"author": "Obsidian",
+	"authorUrl": "https://github.com/fox-land/obsidian-hyperupcall",
+	"isDesktopOnly": true
+}
